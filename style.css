@@ -1,0 +1,21 @@
+html, body{
+    font-style: oblique;
+    font-weight: bold;
+
+}
+.detalhe{
+    width: 16%;
+    float: left;
+    padding: auto;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
+ #vida{
+    text-align: center;
+    clear: both;
+    }
+#destaque{
+    text-align: center;
+}
